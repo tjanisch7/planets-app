@@ -1,0 +1,53 @@
+body {
+	background-image: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
+	height: 1000px;
+}
+
+h1 {
+	color: orange;
+	font-family: 'Barrio', cursive;
+	font-weight: bold;
+	margin-top: 60px;
+}
+
+button {
+	margin-top: 30px;
+}
+
+#div1 > h1 {
+	animation-duration: 2s;
+}
+
+#facts {
+	font-family: 'Gloria Hallelujah', cursive;
+	line-height: 40px;
+	list-style: none;
+	text-align: left;
+}
+
+#header {
+	margin-top: 0;
+}
+
+#image {
+	height: 300px;
+	margin-top: 30px;
+}
+
+#sign {
+	width: 250px;
+}
+
+#two {
+	color: orange;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 32px;
+	line-height: 40px;
+	padding-left: 40px;
+	margin-top: 50px;
+}
+
+#three {
+	color: orange;
+	font-size: 16px;
+}
